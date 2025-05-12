@@ -52,11 +52,11 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bot-aditya&show_icons=true&locale=en&layout=compact" alt="bot-aditya" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=choudhary-rahul18&show_icons=true&locale=en&layout=compact" alt="choudhary-rahul18" />
 </p>
 
 <p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bot-aditya&show_icons=true&locale=en" alt="bot-aditya" />
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=choudhary-rahul18&show_icons=true&locale=en" alt="bot-aditya" />
 </p>
 
 <p>
