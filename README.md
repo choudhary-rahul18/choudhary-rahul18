@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning *Fine-tuning AI models*  
 - 👯 I’m looking to collaborate on *Transformers Projects*  
 - 🤖 Exploring *Machine Learning, **Generative AI*, and everything in between  
-- 👨‍💻 All of my projects are available at [GitHub](https://githugb.com/choudhary-rahul18)  
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/choudhary-rahul18)  
 - 🧪 BTP: Electrical characterization of dielectric materials (yes, I can nerd out too)
 - 📫 Reach me at *rahulchoudhary0rj18@gmail.com*  
 - 📄 Know more from my [Resume](https://drive.google.com/file/d/1FvI4MCU0cTB2GyIG8Fj41m8CYC2_PirA/view?usp=sharing)  
@@ -26,8 +26,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://x.com/AdityaTadwalka3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AdityaTadwalka3" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/aditya-tadwalkar12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-tadwalkar12" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/rahul18-iitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-tadwalkar12" height="30" width="40" /></a>
 </p>
 
 ---
