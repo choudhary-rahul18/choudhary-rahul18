@@ -9,17 +9,17 @@
 <img align="right" alt="Coding" height="300" width="400" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/737340/extras/WildLight_2x_Short.gif?t=1682704059">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bot-aditya&label=Profile%20views&color=0e75b6&style=flat" alt="bot-aditya" />
+  <img src="https://komarev.com/ghpvc/?username=choudhary-rahul18&label=Profile%20views&color=0e75b6&style=flat" alt="choudhary-rahul18" />
 </p>
 
 - 🎓 Third-year undergrad @ *IIT Bombay*, Materials Science & Metallurgical Engg    
 - 🌱 I’m currently learning *Fine-tuning AI models*  
 - 👯 I’m looking to collaborate on *Transformers Projects*  
 - 🤖 Exploring *Machine Learning, **Generative AI*, and everything in between  
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/bot-aditya)  
+- 👨‍💻 All of my projects are available at [GitHub](https://githugb.com/choudhary-rahul18)  
 - 🧪 BTP: Electrical characterization of dielectric materials (yes, I can nerd out too)
-- 📫 Reach me at *tadwalkaraditya@gmail.com*  
-- 📄 Know more from my [Resume](https://drive.google.com/file/d/1XxxfZdSAgeOb4BDQh-HXTkAlHok1D74l/view?usp=drive_link)  
+- 📫 Reach me at *rahulchoudhary0rj18@gmail.com*  
+- 📄 Know more from my [Resume](https://drive.google.com/file/d/1FvI4MCU0cTB2GyIG8Fj41m8CYC2_PirA/view?usp=sharing)  
 - ⚡ Fun fact: *I always learn something new and then forget about it.*
 
 ---
