@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Choudhary</h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F784A3&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+%7C+CV+%7C+NLP;PyTorch;I+love+problems+solving" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F784A3&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+ML+%7C+CV+%7C+NLP;PyTorch;I+love+solving+problems" />
 </h2>
 
 <img align="right" alt="Coding" height="300" width="400" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/737340/extras/WildLight_2x_Short.gif?t=1682704059">
