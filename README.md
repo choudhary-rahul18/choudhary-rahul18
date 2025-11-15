@@ -19,7 +19,7 @@
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/choudhary-rahul18)  
 - 🧪 BTP: Electrical characterization of dielectric materials (yes, I can nerd out too)
 - 📫 Reach me at *rahulchoudhary0rj18@gmail.com*  
-- 📄 Know more from my [Resume](https://drive.google.com/file/d/1FvI4MCU0cTB2GyIG8Fj41m8CYC2_PirA/view?usp=sharing)  
+- 📄 Know more from my [Resume]([https://drive.google.com/file/d/1FvI4MCU0cTB2GyIG8Fj41m8CYC2_PirA/view?usp=sharing](https://drive.google.com/file/d/1_Y4Rnvk3JW9BAxZ-rbiTvkC4J-qcr2pE/view?usp=sharing))  
 - ⚡ Fun fact: *I always learn something new and then forget about it.*
 
 ---
